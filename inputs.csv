@@ -1,0 +1,15 @@
+Portfolio_Value,Securities,Weights,Year,Cash_Withdrawal,Cash_Deposits,Tax,Discount_Rate,Inflation,Percentiles,Expected_yearly_return,Target_Value,Target_Years,Years_Of_Hist_Data
+15000000,Russell 1000 TR USD,0.5,1,100000,,0,0.05,0.1,25,0.09,20000000,10,10
+,FTSE NAREIT Equity REITs TR USD,0.5,2,100000,,,,,50,,,12,
+,,,3,100000,,,,,75,,,,
+,,,4,100000,,,,,80,,,,
+,,,5,100000,,,,,,,,,
+,,,6,100000,,,,,,,,,
+,,,7,100000,,,,,,,,,
+,,,8,100000,,,,,,,,,
+,,,9,100000,,,,,,,,,
+,,,10,100000,,,,,,,,,
+,,,11,100000,,,,,,,,,
+,,,12,100000,,,,,,,,,
+,,,13,100000,,,,,,,,,
+,,,14,100000,,,,,,,,,
