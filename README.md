@@ -4,7 +4,7 @@ Performs Monte Carlo with returns based on the CDF of the portfolio being modele
 **************************************************
 Readme for the Monte carlo Software
 **************************************************
--> There are three files used: Monte-Carlo.exe, inputs.csv, Index_Returns.csv
+-> There are three main files the user directly uses: Monte-Carlo.py, inputs.csv, Index_Returns.csv
 
 -> Don't change the top row of the inputs.csv file.
 
